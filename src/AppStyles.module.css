@@ -1,0 +1,11 @@
+.header {
+  background: lightgreen;
+  color: lightslategray;
+  display: flex;
+  justify-content: space-evenly;
+  width: auto;
+}
+
+.header p {
+  color: darkcyan;
+}
